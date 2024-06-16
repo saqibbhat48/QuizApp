@@ -1,0 +1,62 @@
+[
+  {
+    "questionText": "What is the capital city of Japan?",
+    "answers": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+    "correctAnswer": 0,
+    "Qn" : 1
+  },
+  {
+    "questionText": "Which planet is the largest in the solar system?",
+    "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": 2,
+    "Qn" : 2
+  },
+  {
+    "questionText": "Who wrote the play 'Romeo and Juliet'?",
+    "answers": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+    "correctAnswer": 0,
+    "Qn" : 3
+  },
+  {
+    "questionText": "What is the chemical symbol for water?",
+    "answers": ["O2", "CO2", "H2O", "NaCl"],
+    "correctAnswer": 2,
+    "Qn" : 4
+  },
+  {
+    "questionText": "In what year did the Titanic sink?",
+    "answers": ["1912", "1915", "1918", "1920"],
+    "correctAnswer": 0,
+    "Qn" : 5
+  },
+  {
+    "questionText": "What is the hardest natural substance on Earth?",
+    "answers": ["Gold", "Iron", "Diamond", "Silver"],
+    "correctAnswer": 2,
+    "Qn" : 6
+  },
+  {
+    "questionText": "Who painted the Mona Lisa?",
+    "answers": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+    "correctAnswer": 0,
+    "Qn" : 7
+  },
+  {
+    "questionText": "Which country is known as the Land of the Rising Sun?",
+    "answers": ["China", "South Korea", "Japan", "Vietnam"],
+    "correctAnswer": 2,
+    "Qn" : 8
+  },
+  {
+    "questionText": "How many continents are there on Earth?",
+    "answers": ["5", "6", "7", "8"],
+    "correctAnswer": 2,
+    "Qn" : 9
+  },
+  {
+    "questionText": "Which element has the atomic number 1?",
+    "answers": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
+    "correctAnswer": 2,
+    "Qn" : 10
+  }
+]
